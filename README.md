@@ -1,9 +1,9 @@
 # Unified Infant Brain Tissue Segmentation
-***
+
 
 > "UinTSeg: Unified Infant Brain Tissue Segmentation with Anatomy Delineation", _MICCAI 2024_, [Jiameng Liu, Feihong Liu, Kaicong Sun, Yuhang Sun, Jiawei Huang, Caiwen Jiang, Islem Rekik, and <u>Dinggang Shen</u>]
 
-***
+
 
 ## [<font color=#F8B48F size=3>License</font> ](./LICENSE)
 ```
@@ -27,4 +27,4 @@ Contact: JiamengLiu.PRC@gmail.com
 
 
 ## Results
-![这是图片](./figure/comparison.jpg "results")
+![这是图片](./figure/Comparison.jpg "results")
